@@ -2,4 +2,4 @@ server:
   port: 8000
 spring:
   profiles:
-    active: cat
+    active: dog
