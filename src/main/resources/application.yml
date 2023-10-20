@@ -1,5 +1,11 @@
 server:
   port: 8000
+
 spring:
   profiles:
-    active: dog
+    active: prod, dog
+
+    animal:
+      name: alliance
+
+
